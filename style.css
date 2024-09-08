@@ -1,0 +1,36 @@
+.container .form-container sing-in{
+    background-color: #fff;
+    border-radius: 30%;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
+    position: relative;
+    overflow: hidden;
+    width: 768px;
+    max-width: 100%;
+    min-height: 480px;
+
+}
+
+.container p{
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+    margin: 20px 0;
+}
+
+.container snap{
+    font-size: 12px;
+    
+}
+.container .form-container sing-up{
+    background-color: skyblue;
+    border-radius: 30%;
+    box-shadow: 0 5px 15px rgba(133, 10, 10, 0.284);
+    position: absolute;
+    right: 0;
+    bottom: o;
+    overflow: hidden;
+    width: 768px;
+    max-width: 100%;
+    min-height: 480px;
+
+}
